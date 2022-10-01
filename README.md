@@ -1,2 +1,2 @@
 ## This is the git tutorials
-## Learn can't
+## dont wast time on inst keep learning coding coding
