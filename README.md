@@ -1,1 +1,2 @@
-## THis is the git tutorials
+## This is the git tutorials
+## Learn can't
